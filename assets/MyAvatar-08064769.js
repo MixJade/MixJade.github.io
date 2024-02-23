@@ -1,0 +1,1 @@
+import{d as e,o as t,a as _,_ as s}from"./index-d288b770.js";const o=["src"],n=e({__name:"MyAvatar",props:{name:{}},setup(r){return(a,c)=>(t(),_("img",{class:"my-avatar",alt:"头像",src:"/picture/"+a.name},null,8,o))}});const m=s(n,[["__scopeId","data-v-88543156"]]);export{m as M};
